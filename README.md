@@ -1,6 +1,6 @@
 To get a copy from the project for the first time:
-1- Go to the path you want to get a copy of project folder in by your terminal.
-2- Type: git clone github.com/tareqalshame/Happy-Developers-Diaries and you will get a fresh copy of the code
+- Go to the path you want to get a copy of project folder in by your terminal.
+- Type: git clone github.com/tareqalshame/Happy-Developers-Diaries and you will get a fresh copy of the code
 
 You can push your changes to the repository using these commands:
 git remote add origin https://github.com/tareqalshame/Happy-Developers-Diaries.git
