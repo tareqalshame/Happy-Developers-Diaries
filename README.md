@@ -1,4 +1,9 @@
-To get a copy from the project for the first time:
+# What do you need to start!
+- xampp or any application provides appache server, php interpreter, mysql and localhost server.
+- Any IDE to deal with codes.
+
+
+## To get a copy from the project for the first time:
 - Go to the path you want to get a copy of project folder in by your terminal.
 - Type: git clone github.com/tareqalshame/Happy-Developers-Diaries and you will get a fresh copy of the code
 
@@ -13,6 +18,14 @@ To pull the latest copy of the project:
 2- Type: git pull origin master
 
 
+## How to deal with the project
+go to direcory path in your terminal then type:
+php artisan serve
+artisan will open port 8000 on your local host. you can visit localhost:8000 to visit the project main page
+
+## Database
+- Go to phpmyadmin and create new database: 'diaries'
+-After running mysql server using xampp or  nampp or any server provider application you can type in your terminal : "php artisan migrate" then the artisan will migrate migration files to the database.
 
 
 
