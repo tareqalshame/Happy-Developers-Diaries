@@ -5,7 +5,7 @@
 
 ## To get a copy from the project for the first time:
 - Go to the path you want to get a copy of project folder in by your terminal.
-- Type: git clone github.com/tareqalshame/Happy-Developers-Diaries and you will get a fresh copy of the code
+- Type: "git clone github.com/tareqalshame/Happy-Developers-Diaries" and you will get a fresh copy of the code
 
 You can push your changes to the repository using these commands:
 git remote add origin https://github.com/tareqalshame/Happy-Developers-Diaries.git
@@ -15,7 +15,7 @@ git push -u origin master
 
 To pull the latest copy of the project:
 1- Go to the folder path 
-2- Type: git pull origin master
+2- Type: "git pull origin master"
 
 
 ## How to deal with the project
