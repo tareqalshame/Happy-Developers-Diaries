@@ -25,7 +25,7 @@ artisan will open port 8000 on your local host. you can visit localhost:8000 to 
 
 ## Database
 - Go to phpmyadmin and create new database: 'diaries'
--After running mysql server using xampp or  nampp or any server provider application you can type in your terminal : "php artisan migrate" then the artisan will migrate migration files to the database.
+- After running mysql server using xampp or  nampp or any server provider application you can type in your terminal : "php artisan migrate" then the artisan will migrate migration files to the database.
 
 
 
